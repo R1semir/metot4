@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\metots4\metots4\bin\Debug\metots4.exe.config
+C:\Users\legen\source\repos\metots4\metots4\bin\Debug\metots4.exe
+C:\Users\legen\source\repos\metots4\metots4\bin\Debug\metots4.pdb
+C:\Users\legen\source\repos\metots4\metots4\obj\Debug\metots4.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\metots4\metots4\obj\Debug\metots4.Form1.resources
+C:\Users\legen\source\repos\metots4\metots4\obj\Debug\metots4.Properties.Resources.resources
+C:\Users\legen\source\repos\metots4\metots4\obj\Debug\metots4.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\metots4\metots4\obj\Debug\metots4.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\metots4\metots4\obj\Debug\metots4.exe
+C:\Users\legen\source\repos\metots4\metots4\obj\Debug\metots4.pdb
